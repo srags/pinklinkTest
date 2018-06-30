@@ -54,24 +54,3 @@ const styles = StyleSheet.create({
 
 
 
-// /*<Image source={require('./Assets/pinklink') style={styles.image}}/>*/
-
-/*class HomeScreen extends Component {
-    render() {
-        return (
-            <View style={styles.container}>
-                <TouchableOpacity style={styles.button} onPress={()=>{alert("Go to Request page.")}}>
-                    <Image source={require("./Assets/pinklink.png") style={styles.image}}/>
-                </TouchableOpacity>
-                <Text>Request a pad or tampon.</Text>
-            </View>
-        );
-    }
-}
-
-<TouchableOpacity style={styles.button} onPress={()=>this.props.navigation.navigate("RequestScreen")}>
-                    <Image source={require('./Assets/pinklink.png') style={styles.image}}/>
-                </TouchableOpacity>
-                
-*/
-
